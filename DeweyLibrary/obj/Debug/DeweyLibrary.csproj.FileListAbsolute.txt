@@ -1,0 +1,6 @@
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\DeweyLibrary\bin\Debug\DeweyLibrary.dll
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\DeweyLibrary\bin\Debug\DeweyLibrary.pdb
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\DeweyLibrary\obj\Debug\DeweyLibrary.csproj.AssemblyReference.cache
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\DeweyLibrary\obj\Debug\DeweyLibrary.csproj.CoreCompileInputs.cache
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\DeweyLibrary\obj\Debug\DeweyLibrary.dll
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\DeweyLibrary\obj\Debug\DeweyLibrary.pdb

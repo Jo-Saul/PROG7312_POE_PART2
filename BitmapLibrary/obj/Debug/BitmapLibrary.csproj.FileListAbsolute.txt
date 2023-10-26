@@ -1,0 +1,6 @@
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\BitmapLibrary\bin\Debug\BitmapLibrary.dll
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\BitmapLibrary\bin\Debug\BitmapLibrary.pdb
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\BitmapLibrary\obj\Debug\BitmapLibrary.csproj.AssemblyReference.cache
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\BitmapLibrary\obj\Debug\BitmapLibrary.csproj.CoreCompileInputs.cache
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\BitmapLibrary\obj\Debug\BitmapLibrary.dll
+D:\2023\Semester 2\PROG7312\Code\PROG7312_POE\BitmapLibrary\obj\Debug\BitmapLibrary.pdb
